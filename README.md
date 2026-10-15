@@ -51,19 +51,13 @@ An e-commerce analytics project using the Olist Brazilian E-Commerce dataset to 
 \- Delivery performance
 
 
-
-\## Repository Structure
-
-\- `sql/` — SQL queries and business analysis
-
-\- `data/` — Local source data
-
-\- `power bi/` — Power BI report
-
-\- `doc/` — ERD and documentation
-
-\- `image/` — Dashboard screenshots
-
+## Repository Structure
+- `sql/` — SQL queries and business analysis
+- `powerbi/` — Power BI report (.pbix)
+- `docs/` — ERD and project documentation
+- `images/` — Dashboard screenshots
+- `README.md` — Project overview and documentation
+- `.gitignore` — Excludes local source data and temporary files
 
 
 \## Data Source
@@ -71,8 +65,7 @@ An e-commerce analytics project using the Olist Brazilian E-Commerce dataset to 
 Olist Brazilian E-Commerce dataset. Original data files are kept locally and are not included in the repository.
 
 
+## Dashboard Preview
 
-\## Dashboard
-
-The Power BI dashboard summarizes revenue, orders, customer reviews, product categories, and delivery performance.
+![Olist Sales and Delivery Dashboard](images/dashboard.png)
 
