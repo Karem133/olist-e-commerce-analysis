@@ -1,0 +1,8 @@
+# Exclude original source data
+/data/
+
+# Temporary files
+*.tmp
+~$*
+.DS_Store
+Desktop.ini
